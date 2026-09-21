@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 2 problems · 0 labs · 6 math
+**9** solved · 2 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-20 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-20 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-20 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-21 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-20 | [solution](math/0014-orthogonality-and-projections) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-20 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
