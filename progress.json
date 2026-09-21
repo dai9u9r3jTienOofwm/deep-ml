@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:17:50.962Z",
+  "generated_at": "2026-09-21T01:21:28.346Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -158,6 +158,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-09-21T01:17:50.350Z",
       "last_pushed_at": "2026-09-21T01:17:50.350Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-09-21T01:21:27.767Z",
+      "last_pushed_at": "2026-09-21T01:21:27.767Z"
     }
   }
 }
