@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:21:28.346Z",
+  "generated_at": "2026-09-21T01:23:35.960Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -169,6 +169,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-21T01:21:27.767Z",
       "last_pushed_at": "2026-09-21T01:21:27.767Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-09-21T01:23:35.146Z",
+      "last_pushed_at": "2026-09-21T01:23:35.146Z"
     }
   }
 }
