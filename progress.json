@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:12:13.537Z",
+  "generated_at": "2026-09-21T00:14:21.020Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -103,6 +103,17 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-21T00:12:12.165Z",
       "last_pushed_at": "2026-09-21T00:12:12.165Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-09-21T00:14:20.291Z",
+      "last_pushed_at": "2026-09-21T00:14:20.291Z"
     }
   }
 }
