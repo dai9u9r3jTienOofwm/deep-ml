@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:03:29.139Z",
+  "generated_at": "2026-09-23T10:03:41.090Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -228,6 +228,17 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-09-21T03:03:28.534Z",
       "last_pushed_at": "2026-09-21T03:03:28.534Z"
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-23T10:03:40.426Z",
+      "last_pushed_at": "2026-09-23T10:03:40.426Z"
     }
   }
 }
