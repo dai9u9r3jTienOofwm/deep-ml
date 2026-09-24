@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 5 problems · 0 labs · 19 math
+**25** solved · 6 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-20 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-20 | [solution](problems/0195-matrix-determinant-trace) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-21 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-24 | [solution](problems/0329-matrix-rank) |
 
 ## Math
 
