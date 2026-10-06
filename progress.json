@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:57:40.670Z",
+  "generated_at": "2026-10-06T07:09:20.429Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -355,6 +355,19 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-10-06T06:57:38.943Z",
       "last_pushed_at": "2026-10-06T06:57:38.943Z"
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-10-06T07:09:19.390Z",
+      "last_pushed_at": "2026-10-06T07:09:19.390Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
