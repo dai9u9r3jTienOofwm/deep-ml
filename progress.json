@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:48:12.019Z",
+  "generated_at": "2026-10-06T06:49:20.637Z",
   "items": {
     "problem:195": {
       "kind": "problem",
@@ -322,6 +322,17 @@
       "last_pushed_at": "2026-10-06T06:48:10.952Z",
       "language": "python",
       "lines": 5
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-10-06T06:49:17.057Z",
+      "last_pushed_at": "2026-10-06T06:49:17.057Z"
     }
   }
 }
